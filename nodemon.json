@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "trips@2019",
+        "JWT_KEY": "trips@secretkey"
+    }
+}
